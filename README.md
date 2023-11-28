@@ -41,13 +41,15 @@ Ingredients: macbook of your choice (store.apple.com sells some good ones for a 
 15. [OBS Studio](https://obsproject.com/download)
     * Choose recording-only (normal OS) or streaming-only (streaming OS)
     * Choose native resolution always
-16. [Stream deck Mk.II software](https://www.elgato.com/us/en/s/downloads)
+16. [Stream deck Mk.II software](https://www.elgato.com/us/en/s/downloads) (if you have a streamdeck device)
 17. [Discord](https://discord.com/download)
 18. [zigup](https://github.com/marler8997/zigup/releases)
     * Extract, `chmod +x zigup && mkdir -p ~/.bin && mv zigup ~/.bin`
     * `echo 'export PATH="$PATH:$HOME/.bin"' >> ~/.zprofile`
 19. Zig: `zigup <version>` with https://machengine.org/about/zig-version
-20. Pin Firefox, Ghostty, VSCodium, OBS, Discord to dock
+20. [FL Studio](https://www.image-line.com/fl-studio-download/) (paid, commercial)
+21. [Native Access](https://www.native-instruments.com/en/specials/native-access-2/) (paid, commercial)
+22. Pin Firefox, Ghostty, VSCodium, OBS, Discord to dock
 
 ## You're done!
 

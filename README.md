@@ -1,6 +1,6 @@
-# slimsag's good 'ol dev recipe
+# slimsag's good 'ol dev machine recipe
 
-Just-bought-a-mac to having-a-coder-attack, this is slimsag's good ol' dev recipe.
+Just-bought-a-mac to having-a-coder-attack, this is slimsag's good ol' dev machine recipe.
 
 * **Serving size**: 1
 * **Prep time**: minimal

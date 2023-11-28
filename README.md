@@ -4,10 +4,11 @@
 
 1. Acquire a mac (store.apple.com sells some good ones for a lot of $$$$ apparently.)
 2. Sign into macOS / create user account
-   3. Use online username `slimsag` not full name; else home dir will be `/Users/stephengutekanst` yuck! 
-4. Open App Store, download latest macOS version
-5. Open Disk Utility, create two new APFS volumes `Streaming OS` and `Streaming Data`
-6. ⌘ + Space to activate Spotlight Search, search for `Install macOS` and launch latest macOS installer. Install to `Streaming OS` and `Streaming Data`
+   3. Use credentials from note `Apple setup IDs`
+   4. Use `Account name` of `slimsag` so home dir is `/Users/slimsag`
+5. Open App Store, download latest macOS version
+6. Open Disk Utility, create a new APFS volume `Streaming OS` (installer will create data partition)
+7. ⌘ + Space, search for `Install macOS` and launch latest macOS installer. Install to `Streaming OS`
 
 ## Configure each OS
 

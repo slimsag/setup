@@ -15,7 +15,7 @@ Ingredients: macbook of your choice (store.apple.com sells some good ones for a 
     * Use `Account name` of `slimsag` so home dir is `/Users/slimsag`
     * (I prefer to disable iCloud sync and FIleVault encryption, YMMV.)
 2. Open App Store, download latest macOS version
-3. Open Disk Utility, create a new APFS volume `Streaming OS` (installer will create data partition)
+3. Open Disk Utility, create a new APFS volume `Streaming OS` (installer will create data partition); create a second `code` partition for coding projects
 4. ⌘ + Space, search for `Install macOS` and launch latest macOS installer. Install to `Streaming OS`
 
 ## Configure each OS

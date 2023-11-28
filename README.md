@@ -29,8 +29,8 @@
   16. Install `Zig Language` extension
 14. [OBS Studio](https://obsproject.com/download)
 15. [Stream deck Mk.II software](https://www.elgato.com/us/en/s/downloads)
+17. [Discord](https://discord.com/download)
 16. [zigup](https://github.com/marler8997/zigup/releases)
     17. Extract, `chmod +x zigup && mkdir -p ~/.bin && mv zigup ~/.bin`
     18. 
 16. Zig:
-17. 

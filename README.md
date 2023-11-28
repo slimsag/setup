@@ -32,5 +32,5 @@
 17. [Discord](https://discord.com/download)
 16. [zigup](https://github.com/marler8997/zigup/releases)
     17. Extract, `chmod +x zigup && mkdir -p ~/.bin && mv zigup ~/.bin`
-    18. 
+    18. `echo 'export PATH="$PATH:$HOME/.bin"' >> ~/.zprofile`
 16. Zig:

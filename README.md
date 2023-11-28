@@ -36,6 +36,7 @@ Ingredients: macbook of your choice (store.apple.com sells some good ones for a 
     * Run homebrew's post-install commands
 13. [VSCodium](https://vscodium.com/): `brew install --cask vscodium`
     * Install `Zig Language` extension
+    * DISABLE `Inlay Hints` in settings HOLY SHIT I hate those
 14. [Ghostty (terminal)](https://github.com/mitchellh/ghostty)
 15. [OBS Studio](https://obsproject.com/download)
     * Choose recording-only (normal OS) or streaming-only (streaming OS)

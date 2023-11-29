@@ -1,4 +1,4 @@
-# slimsag's good'nuff 'ol dev machine recipe
+# slimsag's good'nuff good'ol dev machine recipe
 
 Just-bought-a-mac to having-a-coder-attack, this is slimsag's good ol' dev machine recipe.
 

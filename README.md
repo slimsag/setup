@@ -37,20 +37,24 @@ Ingredients: macbook of your choice (store.apple.com sells some good ones for a 
 13. [VSCodium](https://vscodium.com/): `brew install --cask vscodium`
     * Install `Zig Language` extension
     * DISABLE `Inlay Hints` in settings HOLY SHIT I hate those
-    * `echo "export EDITOR='nano'" >> ~/.zprofile` for Git commits and such
 14. [Ghostty (terminal)](https://github.com/mitchellh/ghostty)
-15. [OBS Studio](https://obsproject.com/download)
+   ```
+   echo 'export PATH="$PATH:$HOME/.bin"' >> ~/.zprofile
+   echo "export EDITOR='nano'" >> ~/.zprofile
+   git config --global user.name 'Stephen Gutekanst'
+   git config --global user.email 'stephen@hexops.com'
+   ```
+16. [OBS Studio](https://obsproject.com/download)
     * Choose recording-only (normal OS) or streaming-only (streaming OS)
     * Choose native resolution always
-16. [Stream deck Mk.II software](https://www.elgato.com/us/en/s/downloads) (if you have a streamdeck device)
-17. [Discord](https://discord.com/download)
-18. [zigup](https://github.com/marler8997/zigup/releases)
+17. [Stream deck Mk.II software](https://www.elgato.com/us/en/s/downloads) (if you have a streamdeck device)
+18. [Discord](https://discord.com/download)
+19. [zigup](https://github.com/marler8997/zigup/releases)
     * Extract, `chmod +x zigup && mkdir -p ~/.bin && mv zigup ~/.bin`
-    * `echo 'export PATH="$PATH:$HOME/.bin"' >> ~/.zprofile`
-19. Zig: `zigup <version>` with https://machengine.org/about/zig-version
-20. [FL Studio](https://www.image-line.com/fl-studio-download/) (paid, commercial)
-21. [Native Access](https://www.native-instruments.com/en/specials/native-access-2/) (paid, commercial)
-22. Pin Firefox, Ghostty, VSCodium, OBS, Discord to dock
+20. Zig: `zigup <version>` with https://machengine.org/about/zig-version
+21. [FL Studio](https://www.image-line.com/fl-studio-download/) (paid, commercial)
+22. [Native Access](https://www.native-instruments.com/en/specials/native-access-2/) (paid, commercial)
+23. Pin Firefox, Ghostty, VSCodium, OBS, Discord, FL studio to dock
 
 ## You're done!
 

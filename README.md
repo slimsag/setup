@@ -1,4 +1,4 @@
-# slimsag's good 'ol dev machine recipe
+# slimsag's good'nuff 'ol dev machine recipe
 
 Just-bought-a-mac to having-a-coder-attack, this is slimsag's good ol' dev machine recipe.
 
@@ -37,6 +37,7 @@ Ingredients: macbook of your choice (store.apple.com sells some good ones for a 
 13. [VSCodium](https://vscodium.com/): `brew install --cask vscodium`
     * Install `Zig Language` extension
     * DISABLE `Inlay Hints` in settings HOLY SHIT I hate those
+    * `echo "export EDITOR='nano'" >> ~/.zprofile` for Git commits and such
 14. [Ghostty (terminal)](https://github.com/mitchellh/ghostty)
 15. [OBS Studio](https://obsproject.com/download)
     * Choose recording-only (normal OS) or streaming-only (streaming OS)

@@ -43,6 +43,8 @@ Ingredients: macbook of your choice (store.apple.com sells some good ones for a 
    echo "export EDITOR='nano'" >> ~/.zprofile
    git config --global user.name 'Stephen Gutekanst'
    git config --global user.email 'stephen@hexops.com'
+   git config --global core.excludesfile '~/.gitignore'
+   echo '.DS_Store' >> ~/.gitignore
    ```
 16. [OBS Studio](https://obsproject.com/download)
     * Choose recording-only (normal OS) or streaming-only (streaming OS)

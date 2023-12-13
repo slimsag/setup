@@ -57,6 +57,7 @@ Ingredients: macbook of your choice (store.apple.com sells some good ones for a 
 21. [FL Studio](https://www.image-line.com/fl-studio-download/) (paid, commercial)
 22. [Native Access](https://www.native-instruments.com/en/specials/native-access-2/) (paid, commercial)
 23. Pin Firefox, Ghostty, VSCodium, OBS, Discord, FL studio to dock
+24. On Streaming OS, `brew install blackhole-2ch` and [configure loopback device](https://streamlabs.com/content-hub/post/capturing-desktop-audio-in-streamlabs-desktop-for-mac) for desktop audio recording.
 
 ## You're done!
 

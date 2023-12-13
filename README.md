@@ -44,6 +44,7 @@ Ingredients: macbook of your choice (store.apple.com sells some good ones for a 
    git config --global user.name 'Stephen Gutekanst'
    git config --global user.email 'stephen@hexops.com'
    git config --global core.excludesfile '~/.gitignore'
+   git config --global --add safe.directory '*'
    echo '.DS_Store' >> ~/.gitignore
    ```
 16. [OBS Studio](https://obsproject.com/download)

@@ -17,6 +17,9 @@ Ingredients: macbook of your choice (store.apple.com sells some good ones for a 
 2. Open App Store, download latest macOS version
 3. Open Disk Utility, create a new APFS volume `Streaming OS` (installer will create data partition); create a second `data` partition for coding/music projects
 4. ⌘ + Space, search for `Install macOS` and launch latest macOS installer. Install to `Streaming OS`
+5. With the `data` partition mounted in macOS, right click the drive and `Get Info`, then set `Ignore ownership on this volume`:
+
+<img width="272" alt="image" src="https://github.com/slimsag/setup/assets/3173176/ab76f9e3-1150-4d4c-aa02-d54ba65fef0b">
 
 ## Configure each OS
 

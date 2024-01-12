@@ -42,6 +42,11 @@ Ingredients: macbook of your choice (store.apple.com sells some good ones for a 
     * DISABLE `Inlay Hints` in settings HOLY SHIT I hate those
 14. [Ghostty (terminal)](https://github.com/mitchellh/ghostty)
    ```
+   brew install zsh-completions
+   echo 'if type brew &>/dev/null; then; FPATH=$(brew --prefix)/share/zsh-completions:$FPATH; autoload -Uz compinit; compinit; fi;' >> ~/.zprofile
+   compaudit | xargs chmod g-w
+   brew install golang
+   echo 'export PATH="$PATH:$HOME/go/bin"' >> ~/.zprofile
    echo 'export PATH="$PATH:$HOME/.bin"' >> ~/.zprofile
    echo "export EDITOR='nano'" >> ~/.zprofile
    git config --global user.name 'Stephen Gutekanst'
